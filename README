@@ -1,0 +1,3 @@
+A set of function that will take a list of regressions, each differently specified, and output a set of well formatted  regression tables, ready for publication in scholarly journals. Common predictors are automatically lined up along the same rows, unique predictors have their own rows. Highly customisable. It'll also compile a perfectly sized pdf image for you if you have latex installed.
+
+Language: r
